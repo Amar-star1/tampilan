@@ -1,5 +1,5 @@
 clear
-cd TSLv2
+cd tampilan
 python log.py
 sleep 2
 cd /data/data/com.termux/files/home
